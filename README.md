@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roopesh
-- 👀 I’m interested in web development and bash scripting
+- I’m interested in web development and bash scripting
 - 🌱 I’m currently learning bash and go
 - 📪 Contact me:
   - Email: roopeshor6@gmail.com
