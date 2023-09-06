@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Roopesh
-- I’m interested in web development and bash scripting
-- I’m currently learning bash and go
-- My other profiles:
+- Currently I'm a ECE student
+- Other profiles:
   - [Stack Overflow](https://stackoverflow.com/users/13265356/roopesh)
   - [Sololearn](https://www.sololearn.com/Profile/11386139)
   - [Twitter](https://twitter.com/roopeshor)
   - [Reddit](https://www.reddit.com/u/Roopeshor)
+  - [LinkedIn](https://www.linkedin.com/in/roopesh-or)
