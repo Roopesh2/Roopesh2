@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roopesh
-- Electronics student
+- Currently an Electronics student
 - Other profiles:
   - [Stack Overflow](https://stackoverflow.com/users/13265356/roopesh)
   - [Sololearn](https://www.sololearn.com/Profile/11386139)
