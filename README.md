@@ -1,8 +1,4 @@
 - 👋 Hi, I’m Roopesh
 - Currently an Electronics student
 - Other profiles:
-  - [Stack Overflow](https://stackoverflow.com/users/13265356/roopesh)
   - [Sololearn](https://www.sololearn.com/Profile/11386139)
-  - [Twitter](https://twitter.com/roopeshor)
-  - [Reddit](https://www.reddit.com/u/Roopeshor)
-  - [LinkedIn](https://www.linkedin.com/in/roopesh-or)
