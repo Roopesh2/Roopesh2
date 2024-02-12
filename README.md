@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Roopesh
 - Currently an Electronics student
-- Other profiles:
-  - [Sololearn](https://www.sololearn.com/Profile/11386139)
