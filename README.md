@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Roopesh
-- Currently an Electronics student
+- Geek | UI Designer | Electronics student
