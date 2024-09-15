@@ -1,1 +1,1 @@
-- Geek | UI Designer | Electronics student
+- Geek | Designer | Electronics student
